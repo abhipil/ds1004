@@ -18,6 +18,27 @@ ap4395
 * | 288b720 master from (1,3) to (2,2)
 |/  
 * dc4fef8 master from initial to (1,3)
+jpo286
+*   86b7b58 9) Forth commit Branch1. Merging Branch2.
+|\  
+| *   711feca 7) Second commit. Branch2. Merging master
+| |\  
+| * | 072db06 4) First commit. Branch2
+* | |   7f7e3b8 8) Third commit Branch1. Merging master
+|\ \ \  
+| | |/  
+| |/|   
+| * |   dbdddfe 5) Third commit Master. Merging Branch1
+| |\ \  
+| | |/  
+| |/|   
+| * | d5edeb6 3) Second commit. Master
+* | | f590a88 6) Second commit. Branch1
+| |/  
+|/|   
+* | 4849a7e 2) First commit. Branch1
+|/  
+* a4252f9 1) First commit. Master
 kbr263
 *   c265c97 Merge branch 'upwardBranch'
 |\  
