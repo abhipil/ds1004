@@ -1,3 +1,23 @@
+ap4395
+*   8eb8a4a down from (4,2) to (5,3)
+|\  
+| *   6bf0eb9 top from (3,5) to (4,4)
+| |\  
+| * | d0217f8 top from (2,4) to (3,5)
+* | |   3ba597a down from (3,1) to (4,2)
+|\ \ \  
+| |_|/  
+|/| |   
+| * | 012312b down from (2,2) to (3,1)
+* | |   1a180af master from (2,2) to (3,3)
+|\ \ \  
+| |/ /  
+|/| /   
+| |/    
+| * 24d0e0b top from (1,3) to (2,4)
+* | 288b720 master from (1,3) to (2,2)
+|/  
+* dc4fef8 master from initial to (1,3)
 hx462
 *   f39884e 9th commit (final destination).
 |\  
