@@ -19,3 +19,24 @@ jpo286
 * | 4849a7e 2) First commit. Branch1
 |/  
 * a4252f9 1) First commit. Master
+kbr263
+*   c265c97 Merge branch 'upwardBranch'
+|\  
+| *   035c035 position from:3,3&3,5 to:4,4 (upwardBranch)
+| |\  
+| * | 42d8e69 position from:2,4 to:3,5 (upwardBranch)
+* | |   d46cdd8 position from:3,1&3,3 to:4,2 (master)
+|\ \ \  
+| |_|/  
+|/| |   
+| * | 48247e2 position from:2,2 to:3,1 (downwardBranch)
+* | |   0604232 position from:2,2&2,4 to:3,3 (master)
+|\ \ \  
+| |/ /  
+| | /   
+| |/    
+|/|     
+| * 40e98d7 position from:1,3 to:2,2 (downwardBranch)
+* | 19b1072 position from:1,3 to:2,4 (upwardBranch)
+|/  
+* 811f673 position from:init to:1,3 (master)
